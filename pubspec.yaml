@@ -4,7 +4,7 @@ version: 0.0.9+2
 homepage: https://github.com/kechankrisna/webcontent_converter.git
 
 environment:
-  sdk: '>=2.17.0 <4.0.0'
+  sdk: ">=3.4.3 <4.0.0"
   flutter: ">=3.0.0"
 
 dependencies:
@@ -13,9 +13,9 @@ dependencies:
   puppeteer: ^3.2.0
   dio: ^5.3.2
   easy_logger: ^0.0.2
-  js: ^0.6.7
+  js: ^0.7.1
   path_provider: ^2.1.0
-  archive: ^3.3.7
+  archive: ^3.6.1
   path: ^1.8.3
   http: ^1.1.0
 
